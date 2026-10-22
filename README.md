@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansh55560-ui/ansh55560-ui/main/assets/futuristic-glass-banner.svg" alt="Ansh Singh — Full Stack PHP Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/ansh55560-ui/ansh55560-ui/main/assets/futuristic-glass-banner.svg" alt="Ansh Singh — Full Stack Developer" width="100%" />
 </p>
 
 <h3 align="center">Building practical web experiences with PHP, APIs, and modern UI.</h3>
@@ -22,9 +22,9 @@
 
 ## ◈ About Me
 
-I'm **Ansh Singh**, a Full Stack PHP Developer focused on building dynamic, responsive, and database-driven web applications. I enjoy working across e-commerce workflows, authentication, admin dashboards, CMS functionality, API integrations, and user-facing interfaces.
+I'm **Ansh Singh**, a Full Stack Developer focused on building dynamic, responsive, and database-driven web applications. I enjoy working across e-commerce workflows, authentication, admin dashboards, CMS functionality, API integrations, and user-facing interfaces.
 
-I completed my **Bachelor of Computer Applications (BCA, 2022–2025)** and worked at **Clock Softwares** as a Full Stack PHP Developer from **20 November 2025 to 9 June 2026**.
+I completed my **Bachelor of Computer Applications (BCA, 2022–2025)** and worked at **Clock Softwares** as a Full Stack Developer from **20 November 2025 to 9 June 2026**.
 
 - 🧩 Building with PHP, MySQL, JavaScript, HTML, CSS, and Bootstrap
 - 🛒 Developing e-commerce features and admin workflows
@@ -120,7 +120,7 @@ A custom dark editor theme featuring midnight-blue surfaces, cyan focus accents,
 
 ## ◈ Experience & Education
 
-**Full Stack PHP Developer — Clock Softwares**  
+**Full Stack Developer — Clock Softwares**  
 20 November 2025 – 9 June 2026
 
 Professional work involving PHP/MySQL web applications, e-commerce workflows, admin dashboards, MVC, AJAX, REST APIs, authentication, and payment integration.
